@@ -1,0 +1,42 @@
+Model Features
+
+Aroma,float64
+Acidity/Structure,float64
+Body,int64
+Flavor,int64
+Aftertaste,float64
+region_africa_arabia,int64
+region_caribbean,int64
+region_central_america,int64
+region_hawaii,int64
+region_asia_pacific,int64
+is_blend,int64
+Latitude,float64
+Longitude,float64
+January_Avg_Temp,float64
+January_Precipitation,float64
+July_Avg_Temp,float64
+July_Precipitation,float64
+Est. Price USD_per_ounce,float64
+region,object
+whole-bean_Agtron,float64
+ground-bean_Agtron,float64
+Roast Level_Dark,int64
+Roast Level_Light,int64
+Roast Level_Medium,int64
+Roast Level_Medium-Dark,int64
+Roast Level_Medium-Light,int64
+
+
+
+Model Parameter
+
+Ridge regression: alpha
+Decision Tree Regression: max_depth
+XGboost: n_estimators, learning_rate, max_depth
+MLP: hidden_layer_sizes, max_iteration, learning rate, alpha
+
+
+Performance metrics
+R square (R2)
+Mean Squared Error (MSE)

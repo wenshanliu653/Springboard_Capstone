@@ -1,4 +1,18 @@
 coffee_name,coffee_review_url,coffee_brand_url,coffee_web_name
+Mexico Alva Flores,https://www.coffeereview.com/review/mexico-alva-flores/,https://utopiancoffee.com/collections/coffee?filter.p.m.custom.roast_level=Coffee+Review&sort_by=manual&utm_source=coffeereview.com&utm_medium=referral,mexico-alva-flores
+Mexico Olegario Finca La Cienaga,https://www.coffeereview.com/review/mexico-olegario-finca-la-cienaga/,https://utopiancoffee.com/collections/coffee?filter.p.m.custom.roast_level=Coffee+Review&sort_by=manual&utm_source=coffeereview.com&utm_medium=referral,mexico-olegario-finca-la-cienaga
+Mexico Juan Carlos Nuevo Leon,https://www.coffeereview.com/review/mexico-juan-carlos-nuevo-leon/,https://utopiancoffee.com/collections/coffee?filter.p.m.custom.roast_level=Coffee+Review&sort_by=manual&utm_source=coffeereview.com&utm_medium=referral,mexico-juan-carlos-nuevo-leon
+Anniversary Blend,https://www.coffeereview.com/review/anniversary-blend-4/,https://www.equatorcoffees.com/,anniversary-blend-4
+Ethiopia Natural Sidama Blue Donkey Lot 2,https://www.coffeereview.com/review/ethiopia-natural-sidama-blue-donkey-lot-2/,http://www.kakalovecafe.com.tw/,ethiopia-natural-sidama-blue-donkey-lot-2
+Trust the Process Costa Rica Finca Carrizal SL28 Black Diamond Natural,https://www.coffeereview.com/review/trust-the-process-costa-rica-finca-carrizal-sl28-black-diamond-natural/,https://www.redroostercoffee.com/collections/coffee,trust-the-process-costa-rica-finca-carrizal-sl28-black-diamond-natural
+Guatemala Washed Finca El General Gesha,https://www.coffeereview.com/review/guatemala-washed-finca-el-general-gesha/,http://www.kakalovecafe.com.tw/,guatemala-washed-finca-el-general-gesha
+Guatemala Finca El General Bourbon Honey Espresso,https://www.coffeereview.com/review/guatemala-honey-finca-el-general-gesha-espresso/,http://www.kakalovecafe.com.tw/,guatemala-honey-finca-el-general-gesha-espresso
+True Love Espresso Blend,https://www.coffeereview.com/review/true-love-espresso-blend-2/,http://www.kakalovecafe.com.tw/,true-love-espresso-blend-2
+Golden Parrot Espresso Blend,https://www.coffeereview.com/review/golden-parrot-espresso-blend/,http://www.kakalovecafe.com.tw/,golden-parrot-espresso-blend
+Colombia Manos Juntas Anaerobic Natural,https://www.coffeereview.com/review/colombia-manos-juntas-anaerobic-natural/,https://www.intuitioncoffee.com/,colombia-manos-juntas-anaerobic-natural
+Jaguar Espresso Blend,https://www.coffeereview.com/review/jaguar-espresso-blend/,https://www.equatorcoffees.com/,jaguar-espresso-blend
+Ecuador La Papaya Geisha Natural,https://www.coffeereview.com/review/ecuador-la-papaya-geisha-natural/,https://utopiancoffee.com/collections/coffee?filter.p.m.custom.roast_level=Coffee+Review&sort_by=manual&utm_source=coffeereview.com&utm_medium=referral,ecuador-la-papaya-geisha-natural
+Yemen Al Obrah,https://www.coffeereview.com/review/yemen-al-obrah/,https://utopiancoffee.com/collections/coffee?filter.p.m.custom.roast_level=Coffee+Review&sort_by=manual&utm_source=coffeereview.com&utm_medium=referral,yemen-al-obrah
 Wilton Benitez Colombia Yellow Bourbon,https://www.coffeereview.com/review/wilton-benitez-colombia-yellow-bourbon/,https://www.jbccoffeeroasters.com/product-category/coffee/,wilton-benitez-colombia-yellow-bourbon
 Kona Tropical Punch Washed,https://www.coffeereview.com/review/kona-tropical-punch-washed-2/,https://paradiseroasters.com/,kona-tropical-punch-washed-2
 Colombia Chachagüí Mild Roast,https://www.coffeereview.com/review/colombia-chachagui-mild-roast-2/,https://www.rustydogcoffee.com/,colombia-chachagui-mild-roast-2
@@ -179,8 +193,6 @@ Taiwan Symphony,https://www.coffeereview.com/review/taiwan-symphony/,https://www
 Blue Notes,https://www.coffeereview.com/review/blue-notes/,https://www.coffeeland.com.tw/,blue-notes
 Ethiopia Dale,https://www.coffeereview.com/review/ethiopia-wale/,https://speedwellcoffee.com/,ethiopia-wale
 Panama Elida Estate Geisha Natural ASD T3D Auction Lot EG6,https://www.coffeereview.com/review/panama-elida-estate-geisha-natural-asd-t3d-2023-auction-lot-eg6/,https://www.euphoracoffeestudio.com/categories/coffee-review,panama-elida-estate-geisha-natural-asd-t3d-2023-auction-lot-eg6
-El Salvador La Providencia Maria Pacas Bernadina Honey,https://www.coffeereview.com/review/el-salvador-la-providencia-maria-pacas-bernadina-honey/,https://torque.coffee/pages/our-coffees,el-salvador-la-providencia-maria-pacas-bernadina-honey
-Colombia El Vergel Martha Montenegro Rubi Marti Anaerobic,https://www.coffeereview.com/review/colombia-el-vergel-martha-montenegro-rubi-marti-anaerobic/,https://torque.coffee/pages/our-coffees,colombia-el-vergel-martha-montenegro-rubi-marti-anaerobic
 Ethiopia Washed Yirgacheffe Chelbesa SNNPR Gedeo G1,https://www.coffeereview.com/review/ethiopia-washed-yirgacheffe-chelbesa-snnpr-gedeo-g1/,https://douzhaicafe.com/,ethiopia-washed-yirgacheffe-chelbesa-snnpr-gedeo-g1
 Chantilly Blend,https://www.coffeereview.com/review/chantilly-blend/,https://douzhaicafe.com/,chantilly-blend
 Colombia Lulo Wonka Wonka & Sebastian Gomez,https://www.coffeereview.com/review/colombia-lulo-wonka-wonka-sebastian-gomez/,https://www.bonlifecoffee.com/,colombia-lulo-wonka-wonka-sebastian-gomez
@@ -197,7 +209,6 @@ Guatemala El Injerto Legendary Geisha Natural Lot E1-06,https://www.coffeereview
 Guatemala Washed Finca La Hermosa Gesha Peaberry,https://www.coffeereview.com/review/guatemala-washed-finca-la-hermosa-gesha-peaberry/,http://www.kakalovecafe.com.tw/,guatemala-washed-finca-la-hermosa-gesha-peaberry
 Guatemala Finca La Linea Gesha,https://www.coffeereview.com/review/guatemala-finca-la-linea-gesha/,https://www.bonlifecoffee.com/,guatemala-finca-la-linea-gesha
 Guatemala El Socorro Laurina,https://www.coffeereview.com/review/guatemala-el-socorro-laurina/,https://www.willoughbyscoffee.com/,guatemala-el-socorro-laurina
-Vista Hermosa Marago-Pache,https://www.coffeereview.com/review/vista-hermosa-marago-pache/,https://torque.coffee/pages/our-coffees,vista-hermosa-marago-pache
 Qunqana Ethiopia,https://www.coffeereview.com/review/qunqana-ethiopia/,https://www.jbccoffeeroasters.com/product-category/coffee/,qunqana-ethiopia
 Finca La Reserva Colombia Gesha Honey,https://www.coffeereview.com/review/finca-la-reserva-colombia-gesha-honey/,https://www.jbccoffeeroasters.com/product-category/coffee/,finca-la-reserva-colombia-gesha-honey
 Ethiopia Ayla Bombe,https://www.coffeereview.com/review/ethiopia-ayla-bombe/,https://utopiancoffee.com/collections/coffee?filter.p.m.custom.roast_level=Coffee+Review&sort_by=manual&utm_source=coffeereview.com&utm_medium=referral,ethiopia-ayla-bombe
@@ -224,7 +235,6 @@ Ethiopia Washed Yirgacheffe Botabaa Lot,https://www.coffeereview.com/review/ethi
 Bella Carmona Honey Guatemala,https://www.coffeereview.com/review/bella-carmona-guatemala-7/,https://www.jbccoffeeroasters.com/product-category/coffee/,bella-carmona-guatemala-7
 Ethiopia Sidama G1 Bona Zuria Ayele Tulu Honey,https://www.coffeereview.com/review/ethiopia-sidama-g1-bona-zuria-ayele-tulu-honey/,https://www.gkcoffee.com.tw,ethiopia-sidama-g1-bona-zuria-ayele-tulu-honey
 Ecuador Galo Morales,https://www.coffeereview.com/review/ecuador-galo-morales/,https://utopiancoffee.com/collections/coffee?filter.p.m.custom.roast_level=Coffee+Review&sort_by=manual&utm_source=coffeereview.com&utm_medium=referral,ecuador-galo-morales
-Orange Bourbon Natural,https://www.coffeereview.com/review/orange-bourbon-natural/,https://www.rustyshawaiian.com/,orange-bourbon-natural
 Ethiopia Yirgacheffe Huke Premium Washed G1,https://www.coffeereview.com/review/ethiopia-yirgacheffe-huke-premium-washed-g1/,https://bearlakecoffee.com/,ethiopia-yirgacheffe-huke-premium-washed-g1
 Ethiopia Yirgacheffe Huke Premium Natural G1,https://www.coffeereview.com/review/ethiopia-yirgacheffe-hule-premium-natural-g1/,https://bearlakecoffee.com/,ethiopia-yirgacheffe-hule-premium-natural-g1
 Colombia El Vergel #1,https://www.coffeereview.com/review/colombia-el-vergel-1-2/,https://speedwellcoffee.com/,colombia-el-vergel-1-2
@@ -271,13 +281,10 @@ Peru Black Honey Los Santos Farm Gesha,https://www.coffeereview.com/review/peru-
 Nyeri Hill Kenya,https://www.coffeereview.com/review/nyeri-hill-kenya-4/,https://www.jbccoffeeroasters.com/product-category/coffee/,nyeri-hill-kenya-4
 Nemba Burundi,https://www.coffeereview.com/review/nemba-burundi/,https://www.jbccoffeeroasters.com/product-category/coffee/,nemba-burundi
 Malaysia Liberica Anaerobic Natural N26,https://www.coffeereview.com/review/malaysia-liberica-anaerobic-natural-n26/,https://paradiseroasters.com/,malaysia-liberica-anaerobic-natural-n26
-Zambia Kateshi,https://www.coffeereview.com/review/zambia-kateshi/,https://sidebyeachbrewing.com/,zambia-kateshi
-Colombia Narino Sugarcane Decaf,https://www.coffeereview.com/review/colombia-narino-sugarcane-decaf/,https://sidebyeachbrewing.com/,colombia-narino-sugarcane-decaf
 Colombia La Victoria Ethiopia Landrace,https://www.coffeereview.com/review/colombia-la-victoria-ethiopia-landrace/,https://www.sotcoffee.com/,colombia-la-victoria-ethiopia-landrace
 Wilton Benitez Orange Bourbon,https://www.coffeereview.com/review/wilton-benitez-orange-bourbon-2/,https://www.jbccoffeeroasters.com/product-category/coffee/,wilton-benitez-orange-bourbon-2
 Dukunde Kawa Rwanda,https://www.coffeereview.com/review/dukunde-kawa-rwanda-2/,https://www.jbccoffeeroasters.com/product-category/coffee/,dukunde-kawa-rwanda-2
 Costa Rica Tarrazú Tirra,https://www.coffeereview.com/review/costa-rica-tarrazu-tirra/,https://utopiancoffee.com/collections/coffee?filter.p.m.custom.roast_level=Coffee+Review&sort_by=manual&utm_source=coffeereview.com&utm_medium=referral,costa-rica-tarrazu-tirra
-Kona Maragogype,https://www.coffeereview.com/review/kona-maragogype-2/,https://www.rustyshawaiian.com/,kona-maragogype-2
 Ethiopia Natural Sidama Bensa Bombe,https://www.coffeereview.com/review/ethiopia-natural-sidama-bensa-bombe/,http://www.kakalovecafe.com.tw/,ethiopia-natural-sidama-bensa-bombe
 Ethiopia Washed Bench Maji Baby Lucy Gesha,https://www.coffeereview.com/review/ethiopia-washed-bench-maji-baby-lucy-gesha/,http://www.kakalovecafe.com.tw/,ethiopia-washed-bench-maji-baby-lucy-gesha
 Taiwan Natural Meishan Ching-Ye Farm Lot 0116,https://www.coffeereview.com/review/taiwan-natural-meishan-ching-ye-farm-lot-0116/,http://www.kakalovecafe.com.tw/,taiwan-natural-meishan-ching-ye-farm-lot-0116
@@ -307,7 +314,6 @@ Ethiopia Guji Uraga Anaerobic Washed,https://www.coffeereview.com/review/ethiopi
 Manhattan Henge Espresso,https://www.coffeereview.com/review/manhattan-henge-espresso/,https://www.buoncaffe.com.tw/,manhattan-henge-espresso
 Snowy Hokkaido Espresso,https://www.coffeereview.com/review/snowy-hokkaido-espresso/,https://www.buoncaffe.com.tw/,snowy-hokkaido-espresso
 Guatemala Bella Carmona,https://www.coffeereview.com/review/guatemala-bella-carmona-5/,https://utopiancoffee.com/collections/coffee?filter.p.m.custom.roast_level=Coffee+Review&sort_by=manual&utm_source=coffeereview.com&utm_medium=referral,guatemala-bella-carmona-5
-Burundi Kayanza Cima Yeast Natural,https://www.coffeereview.com/review/burundi-kayanza-cima-yeast-natural/,https://sidebyeachbrewing.com/,burundi-kayanza-cima-yeast-natural
 Wilton Benitez Sidra,https://www.coffeereview.com/review/wilton-benitez-sidra-2/,https://www.jbccoffeeroasters.com/product-category/coffee/,wilton-benitez-sidra-2
 Putra Gayo Sumatra,https://www.coffeereview.com/review/putra-gayo-sumatra-2/,https://www.jbccoffeeroasters.com/product-category/coffee/,putra-gayo-sumatra-2
 Nsoga Iweyza Tanzania Peaberry,https://www.coffeereview.com/review/nsoga-iweyza-tanzania-peaberry/,https://www.jbccoffeeroasters.com/product-category/coffee/,nsoga-iweyza-tanzania-peaberry
@@ -405,7 +411,6 @@ Kona SL 34 Anaerobic Washed Kona Rainforest,https://www.coffeereview.com/review/
 Colombia Yellow Geisha Granja Paraiso 92,https://www.coffeereview.com/review/colombia-yellow-geisha-granja-paraiso-92/,https://paradiseroasters.com/,colombia-yellow-geisha-granja-paraiso-92
 Yaye Chericho Ethiopia Espresso,https://www.coffeereview.com/review/yaye-chericho-ethiopia-espresso/,https://www.jbccoffeeroasters.com/product-category/coffee/,yaye-chericho-ethiopia-espresso
 Colombia Chachagüí Mild Roast,https://www.coffeereview.com/review/colombia-chachagui-mild-roast/,https://www.rustydogcoffee.com/,colombia-chachagui-mild-roast
-Ka‘ū Classic Medium Roast,https://www.coffeereview.com/review/kau-classic-medium-roast-2/,https://www.rustyshawaiian.com/,kau-classic-medium-roast-2
 Colombia Thermal Shock Double Anaerobic Granja Paraiso Orange Gesha,https://www.coffeereview.com/review/colombia-thermal-shock-double-anaerobic-granja-paraiso-orange-gesha/,http://www.kakalovecafe.com.tw/,colombia-thermal-shock-double-anaerobic-granja-paraiso-orange-gesha
 Kenya Nyeri Hill Estate AA Top Espresso,https://www.coffeereview.com/review/kenya-nyeri-hill-estate-aa-top-espresso/,http://www.kakalovecafe.com.tw/,kenya-nyeri-hill-estate-aa-top-espresso
 Colombia Granja Paraiso 92 Anaerobic Gesha,https://www.coffeereview.com/review/colombia-granja-paraiso-92-anaerobic-gesha/,http://www.kakalovecafe.com.tw/,colombia-granja-paraiso-92-anaerobic-gesha
@@ -420,7 +425,6 @@ Kenya Gachika,https://www.coffeereview.com/review/kenya-gachika/,https://utopian
 Hey Much Espresso Blend,https://www.coffeereview.com/review/hey-much-espresso-blend/,http://www.kakalovecafe.com.tw/,hey-much-espresso-blend
 Ethiopia Black Honey Guji Wate Lot Tabby,https://www.coffeereview.com/review/ethiopia-black-honey-guji-wate-lot-tabby/,http://www.kakalovecafe.com.tw/,ethiopia-black-honey-guji-wate-lot-tabby
 Golden Parrot Blend,https://www.coffeereview.com/review/golden-parrot-blend-2/,http://www.kakalovecafe.com.tw/,golden-parrot-blend-2
-Finca Vista Hermosa Edwin’s Reserve Guatemala,https://www.coffeereview.com/review/finca-vista-hermosa-edwins-reserve-guatemala/,https://torque.coffee/pages/our-coffees,finca-vista-hermosa-edwins-reserve-guatemala
 Costa Rica Las Lajas Perla Negra,https://www.coffeereview.com/review/costa-rica-las-lajas-perla-negra-3/,https://www.durangocoffee.com/,costa-rica-las-lajas-perla-negra-3
 Kenya AA Top Gicherori Espresso,https://www.coffeereview.com/review/kenya-aa-top-gicherori-3/,https://www.gkcoffee.com.tw,kenya-aa-top-gicherori-3
 Kagunyu Kenya,https://www.coffeereview.com/review/__trashed-5/,https://www.jbccoffeeroasters.com/product-category/coffee/,__trashed-5
@@ -445,17 +449,8 @@ Panama Hacienda La Esmeralda Ethiopian Accessions,https://www.coffeereview.com/r
 Hawai’i Kona Peaberry Darnall Estate,https://www.coffeereview.com/review/hawaii-kona-peaberry-darnall-estate/,https://paradiseroasters.com/,hawaii-kona-peaberry-darnall-estate
 Ethiopia Israel Degefa Wush Wush,https://www.coffeereview.com/review/ethiopia-israel-degefa-wush-wush/,https://revelcoffee.com/,ethiopia-israel-degefa-wush-wush
 Kenya Ndaroini AA,https://www.coffeereview.com/review/kenya-ndaroini-aa-2/,https://speedwellcoffee.com/,kenya-ndaroini-aa-2
-Costa Rica Palomas,https://www.coffeereview.com/review/costa-rica-palomas/,https://sidebyeachbrewing.com/,costa-rica-palomas
-Sumatra Takengon,https://www.coffeereview.com/review/sumatra-takengon/,https://sidebyeachbrewing.com/,sumatra-takengon
-Reveille Espresso,https://www.coffeereview.com/review/reveille-espresso/,https://sidebyeachbrewing.com/,reveille-espresso
-Honduras Marcala,https://www.coffeereview.com/review/honduras-marcala-3/,https://sidebyeachbrewing.com/,honduras-marcala-3
-Levity,https://www.coffeereview.com/review/levity/,https://sidebyeachbrewing.com/,levity
-Warm and Fuzzy Decaf Espresso,https://www.coffeereview.com/review/warm-and-fuzzy-decaf-espresso/,https://sidebyeachbrewing.com/,warm-and-fuzzy-decaf-espresso
-My Old Friend Dark Roast,https://www.coffeereview.com/review/my-old-friend-dark-roast/,https://sidebyeachbrewing.com/,my-old-friend-dark-roast
 Laura’s Reserve SL34,https://www.coffeereview.com/review/lauras-reserve-sl34-4/,http://bit.ly/2oBDGmP,lauras-reserve-sl34-4
 Panama Mokkita Natural Mama Cata Estate,https://www.coffeereview.com/review/panama-mokkita-natural-mama-cata-estate-2/,https://paradiseroasters.com/,panama-mokkita-natural-mama-cata-estate-2
-Ka‘ū Classic Peaberry,https://www.coffeereview.com/review/kau-classic-peaberry-2/,https://www.rustyshawaiian.com/,kau-classic-peaberry-2
-Hapa,https://www.coffeereview.com/review/hapa/,https://bit.ly/35zI089,hapa
 Colombia 510 Elegante Natural Geisha,https://www.coffeereview.com/review/colombia-510-elegante-natural-geisha/,https://utopiancoffee.com/collections/coffee?filter.p.m.custom.roast_level=Coffee+Review&sort_by=manual&utm_source=coffeereview.com&utm_medium=referral,colombia-510-elegante-natural-geisha
 Colombia Turron,https://www.coffeereview.com/review/colombia-turron/,https://utopiancoffee.com/collections/coffee?filter.p.m.custom.roast_level=Coffee+Review&sort_by=manual&utm_source=coffeereview.com&utm_medium=referral,colombia-turron
 Mukwinja DR Congo,https://www.coffeereview.com/review/mukwinja-dr-congo/,https://www.jbccoffeeroasters.com/product-category/coffee/,mukwinja-dr-congo
@@ -638,7 +633,6 @@ Twisted V.8 Espresso,https://www.coffeereview.com/review/twisted-v-8-espresso/,h
 Piura Peru,https://www.coffeereview.com/review/piura-peru/,https://www.jbccoffeeroasters.com/product-category/coffee/,piura-peru
 Panama Hacienda La Esmeralda Geisha Natural,https://www.coffeereview.com/review/panama-hacienda-la-esmeralda-geisha-natural/,https://www.euphoracoffeestudio.com/categories/coffee-review,panama-hacienda-la-esmeralda-geisha-natural
 Panama Hacienda La Esmeralda Geisha Washed,https://www.coffeereview.com/review/panama-hacienda-la-esmeralda-geisha-washed-2/,https://www.euphoracoffeestudio.com/categories/coffee-review,panama-hacienda-la-esmeralda-geisha-washed-2
-Grand Champion Red Bourbon Natural,https://www.coffeereview.com/review/grand-champion-red-bourbon-natural/,https://www.rustyshawaiian.com/,grand-champion-red-bourbon-natural
 Panama Finca Don Julian Geisha Washed,https://www.coffeereview.com/review/panama-finca-don-julian-geisha-washed/,https://www.gkcoffee.com.tw,panama-finca-don-julian-geisha-washed
 Guatemala Diamante Perez,https://www.coffeereview.com/review/guatemala-diamante-perez/,https://barringtoncoffee.com,guatemala-diamante-perez
 Taiwan Nantou Yuchi Kanon Estate SL34 Natural,https://www.coffeereview.com/review/taiwan-nantou-yuchi-kanon-estate-sl34-natural/,http://www.kakalovecafe.com.tw/,taiwan-nantou-yuchi-kanon-estate-sl34-natural
@@ -667,7 +661,6 @@ Gesha Spirits,https://www.coffeereview.com/review/gesha-spirits-2/,https://mostr
 Philippine Rosemarie Rupecio,https://www.coffeereview.com/review/philippine-rosemarie-rupecio/,https://mostracoffee.com/,philippine-rosemarie-rupecio
 Colombia Huila Charlotte Geisha Washed,https://www.coffeereview.com/review/colombia-huila-charlotte-geisha-washed/,https://www.buoncaffe.com.tw/,colombia-huila-charlotte-geisha-washed
 Colombia Nariño Single-Origin Espresso,https://www.coffeereview.com/review/colombia-narino-single-origin-espresso/,https://www.templecoffee.com,colombia-narino-single-origin-espresso
-Costa Rica Finca Sabana Redonda SL28,https://www.coffeereview.com/review/costa-rica-finca-sabana-redonda-sl28/,https://torque.coffee/pages/our-coffees,costa-rica-finca-sabana-redonda-sl28
 Panama Hacienda La Esmeralda Diamond Mountain Catuai Washed,https://www.coffeereview.com/review/panama-hacienda-la-esmeralda-diamond-mountain-catuai-washed/,https://www.buoncaffe.com.tw/,panama-hacienda-la-esmeralda-diamond-mountain-catuai-washed
 Sunburst Cold Brew,https://www.coffeereview.com/review/sunburst-cold-brew/,https://www.jbccoffeeroasters.com/product-category/coffee/,sunburst-cold-brew
 Yemen Al Kawlah Special Reserve Natural,https://www.coffeereview.com/review/yemen-al-kawlah-special-reserve-natural/,https://bit.ly/2P8dTQf,yemen-al-kawlah-special-reserve-natural
@@ -1019,7 +1012,6 @@ Peru Washed Santa Monica Gesha,https://www.coffeereview.com/review/peru-washed-s
 Taiwan Washed Alishan Ching-Ye Farm SL34,https://www.coffeereview.com/review/taiwan-washed-alishan-ching-ye-farm-sl34/,http://www.kakalovecafe.com.tw/,taiwan-washed-alishan-ching-ye-farm-sl34
 Ethiopia Sidamo Karamo,https://www.coffeereview.com/review/ethiopia-sidamo-karamo/,https://jauntcoffee.com/,ethiopia-sidamo-karamo
 Gigesa Ethiopia,https://www.coffeereview.com/review/gigesa-ethiopia-3/,https://www.jbccoffeeroasters.com/product-category/coffee/,gigesa-ethiopia-3
-Oahu Triple-Bourbon “Sparkling” Yeast Ferment,https://www.coffeereview.com/review/oahu-triple-bourbon-sparkling-yeast-ferment/,https://www.rustyshawaiian.com/,oahu-triple-bourbon-sparkling-yeast-ferment
 Rayo del Sol Peru,https://www.coffeereview.com/review/rayo-del-sol-peru/,https://www.jbccoffeeroasters.com/product-category/coffee/,rayo-del-sol-peru
 Colombia Ibague Tolima,https://www.coffeereview.com/review/colombia-ibague-tolima/,https://jauntcoffee.com/,colombia-ibague-tolima
 Monte Alban Mexico,https://www.coffeereview.com/review/monte-alban-mexico-2/,https://www.jbccoffeeroasters.com/product-category/coffee/,monte-alban-mexico-2
@@ -1042,7 +1034,6 @@ Pointu Laurina,https://www.coffeereview.com/review/pointu-laurina/,http://bit.ly
 Ecuador Finca Cruz Loma,https://www.coffeereview.com/review/ecuador-finca-cruz-loma/,https://www.facebook.com/4ArtsZeroDefectCoffees,ecuador-finca-cruz-loma
 Aged Sumatra Semiga,https://www.coffeereview.com/review/aged-sumatra-semiga/,https://paradiseroasters.com/,aged-sumatra-semiga
 Indonesia Sumatra Kerinci Valley,https://www.coffeereview.com/review/indonesia-sumatra-kerinci-valley/,https://mostracoffee.com/,indonesia-sumatra-kerinci-valley
-Ka’u Classic Dark,https://www.coffeereview.com/review/kau-classic-dark/,https://www.rustyshawaiian.com/,kau-classic-dark
 Barokah Honey Sumatra,https://www.coffeereview.com/review/barokah-honey-sumatra/,https://www.jbccoffeeroasters.com/product-category/coffee/,barokah-honey-sumatra
 Colombia Finca La Primavera Sidra,https://www.coffeereview.com/review/colombia-finca-la-primavera-sidra/,https://paradiseroasters.com/,colombia-finca-la-primavera-sidra
 Ethiopia Natural Guji Dasaya SP,https://www.coffeereview.com/review/ethiopia-natural-guji-dasaya-sp/,http://www.kakalovecafe.com.tw/,ethiopia-natural-guji-dasaya-sp
@@ -1059,13 +1050,10 @@ Macarena Colombia,https://www.coffeereview.com/review/macarena-colombia/,https:/
 Haraaz Red Yemen,https://www.coffeereview.com/review/haraaz-red-yemen/,https://www.jbccoffeeroasters.com/product-category/coffee/,haraaz-red-yemen
 Twisted V.7 Espresso,https://www.coffeereview.com/review/twisted-v-7-espresso/,https://www.jbccoffeeroasters.com/product-category/coffee/,twisted-v-7-espresso
 Colombia Finca El Paraiso Geisha Letty,https://www.coffeereview.com/review/colombia-finca-el-paraiso-geisha-letty/,https://paradiseroasters.com/,colombia-finca-el-paraiso-geisha-letty
-Monarch Estate Pacamara,https://www.coffeereview.com/review/monarch-estate-pacamara/,https://bit.ly/35zI089,monarch-estate-pacamara
 Uluwehi Farm Kona SL34 Yeast-Fermentation Washed Peaberry,https://www.coffeereview.com/review/uluwehi-farm-kona-sl34-yeast-fermentation-washed-peaberry/,https://paradiseroasters.com/,uluwehi-farm-kona-sl34-yeast-fermentation-washed-peaberry
 Ka’u IPA Natural,https://www.coffeereview.com/review/kau-ipa-natural/,https://paradiseroasters.com/,kau-ipa-natural
 Honduras Finca Cerro Azul Yellow Pacas,https://www.coffeereview.com/review/honduras-finca-cerro-azul-yellow-pacas/,https://paradiseroasters.com/,honduras-finca-cerro-azul-yellow-pacas
 Ecuador Finca Lugmapata Mejorado,https://www.coffeereview.com/review/ecuador-finca-lugmapata-mejorado/,https://paradiseroasters.com/,ecuador-finca-lugmapata-mejorado
-Monarch Estate Hawaiian Gesha,https://www.coffeereview.com/review/monarch-estate-hawaiian-gesha/,https://bit.ly/35zI089,monarch-estate-hawaiian-gesha
-‘Ōpio Kona,https://www.coffeereview.com/review/opio-kona/,https://bit.ly/35zI089,opio-kona
 Hawai’i Ka’u Classic Dark,https://www.coffeereview.com/review/hawaii-kau-classic-dark/,https://paradiseroasters.com/,hawaii-kau-classic-dark
 Ethiopia Hambela Goro,https://www.coffeereview.com/review/ethiopia-hambela-goro/,https://jauntcoffee.com/,ethiopia-hambela-goro
 Shakiso Natural,https://www.coffeereview.com/review/shakiso-natural/,https://www.jbccoffeeroasters.com/product-category/coffee/,shakiso-natural
@@ -1152,17 +1140,17 @@ Alaka Ethiopia,https://www.coffeereview.com/review/alaka-ethiopia/,https://www.j
 Kona Liberica Champagne Natural,https://www.coffeereview.com/review/liberica/,https://paradiseroasters.com/,liberica
 El Triunfo Mexico,https://www.coffeereview.com/review/el-triunfo-mexico/,https://www.jbccoffeeroasters.com/product-category/coffee/,el-triunfo-mexico
 Out of Africa Blend,https://www.coffeereview.com/review/out-of-africa-blend/,https://bit.ly/2P8dTQf,out-of-africa-blend
+Guatemala Finca El General SummerEnd Espresso,https://www.coffeereview.com/review/guatemala-finca-el-general-summerend-espresso/,http://www.kakalovecafe.com.tw/,guatemala-finca-el-general-summerend-espresso
+Guatemala El Injerto Natural Legendary Gesha 7,https://www.coffeereview.com/review/guatemala-el-injerto-natural-legendary-gesha-7/,http://www.kakalovecafe.com.tw/,guatemala-el-injerto-natural-legendary-gesha-7
 Ethiopia Natural Guji Hambela SASA Lot 10,https://www.coffeereview.com/review/ethiopia-natural-guji-hambela-sasa-lot-10/,http://www.kakalovecafe.com.tw/,ethiopia-natural-guji-hambela-sasa-lot-10
 Acatenango Santa Felisa Wild Yeast Natural Sudan Rume Full Moon Lot 4,https://www.coffeereview.com/review/acatenango-santa-felisa-wild-yeast-natural-sudan-rume-full-moon-lot-4/,http://www.kakalovecafe.com.tw/,acatenango-santa-felisa-wild-yeast-natural-sudan-rume-full-moon-lot-4
 Guatemala Finca El General Slow Dry 6,https://www.coffeereview.com/review/guatemala-finca-el-general-slow-dry-6/,http://www.kakalovecafe.com.tw/,guatemala-finca-el-general-slow-dry-6
 Ethiopia Yirgacheffe Washed Banko Gotiti 3,https://www.coffeereview.com/review/ethiopia-yirgacheffe-washed-banko-gotiti-3/,http://www.kakalovecafe.com.tw/,ethiopia-yirgacheffe-washed-banko-gotiti-3
 Ethiopia Natural Yirgacheffe Adado Feysa Dira,https://www.coffeereview.com/review/ethiopia-natural-yirgacheffe-adado-feysa-dira/,http://www.kakalovecafe.com.tw/,ethiopia-natural-yirgacheffe-adado-feysa-dira
-Guatemala Finca El General SummerEnd Espresso,https://www.coffeereview.com/review/guatemala-finca-el-general-summerend-espresso/,http://www.kakalovecafe.com.tw/,guatemala-finca-el-general-summerend-espresso
-Guatemala El Injerto Natural Legendary Gesha 7,https://www.coffeereview.com/review/guatemala-el-injerto-natural-legendary-gesha-7/,http://www.kakalovecafe.com.tw/,guatemala-el-injerto-natural-legendary-gesha-7
 Kenya Athena AB Espresso,https://www.coffeereview.com/review/kenya-athena-ab-espresso/,https://www.facebook.com/4ArtsZeroDefectCoffees,kenya-athena-ab-espresso
 Kenya Gichathaini,https://www.coffeereview.com/review/kenya-gichathaini-4/,https://roadmapcoffeeworks.com/,kenya-gichathaini-4
-Indonesian Island Blend,https://www.coffeereview.com/review/indonesian-island-blend/,http://www.mysticmonkcoffee.com,indonesian-island-blend
 Banko Gotiti Natural,https://www.coffeereview.com/review/banko-gotiti-natural/,https://www.jbccoffeeroasters.com/product-category/coffee/,banko-gotiti-natural
+Indonesian Island Blend,https://www.coffeereview.com/review/indonesian-island-blend/,http://www.mysticmonkcoffee.com,indonesian-island-blend
 FTO Ethiopian,https://www.coffeereview.com/review/fto-ethiopian/,http://www.mysticmonkcoffee.com,fto-ethiopian
 Yemen Sheba Auction Lot 1: Wadi Al Mahjr,https://www.coffeereview.com/review/yemen-sheba-auction-lot-1-wadi-al-mahjr/,https://www.euphoracoffeestudio.com/categories/coffee-review,yemen-sheba-auction-lot-1-wadi-al-mahjr
 Yemen Sana’a,https://www.coffeereview.com/review/yemen-sanaa/,https://www.equatorcoffees.com/,yemen-sanaa
@@ -1238,7 +1226,6 @@ Brazil Ipanema Golden Edition C26 Lychee,https://www.coffeereview.com/review/bra
 Dead Reckoning,https://www.coffeereview.com/review/dead-reckoning-2/,https://www.corvuscoffee.com/,dead-reckoning-2
 Gigesa Natural,https://www.coffeereview.com/review/gigesa-natural/,https://www.jbccoffeeroasters.com/product-category/coffee/,gigesa-natural
 El Jocote Natural,https://www.coffeereview.com/review/el-jocote-natural/,https://www.jbccoffeeroasters.com/product-category/coffee/,el-jocote-natural
-Kona Maragogype Peaberry Natural,https://www.coffeereview.com/review/kona-maragogype-peaberry-natural/,https://www.rustyshawaiian.com/,kona-maragogype-peaberry-natural
 Nyeri Hill Kenya,https://www.coffeereview.com/review/nyeri-hill-kenya/,https://www.jbccoffeeroasters.com/product-category/coffee/,nyeri-hill-kenya
 La Perla Chiquita Ecuador,https://www.coffeereview.com/review/la-perla-chiquita-ecuador/,https://www.jbccoffeeroasters.com/product-category/coffee/,la-perla-chiquita-ecuador
 Pantan Musara Sumatra,https://www.coffeereview.com/review/pantan-musara-sumatra/,https://www.jbccoffeeroasters.com/product-category/coffee/,pantan-musara-sumatra
@@ -1457,7 +1444,6 @@ Peru San Ignacio Calazobo Lot 2 FTO,https://www.coffeereview.com/review/peru-san
 Kenya Nyeri AB Nyeshun,https://www.coffeereview.com/review/kenya-nyeri-ab/,http://www.kakalovecafe.com.tw/,kenya-nyeri-ab
 Ethiopia Guji Bishala,https://www.coffeereview.com/review/ethiopia-guji-bishala/,http://www.kakalovecafe.com.tw/,ethiopia-guji-bishala
 Wush Wush Ginbo Keffa Ethiopia,https://www.coffeereview.com/review/wush-wush-ginbo-keffa-ethiopia/,https://www.equianocoffee.com,wush-wush-ginbo-keffa-ethiopia
-Ka’u Classic Medium Roast,https://www.coffeereview.com/review/kau-classic-medium-roast/,https://www.rustyshawaiian.com/,kau-classic-medium-roast
 Costa Rica Coffea Diversa Washed Geisha,https://www.coffeereview.com/review/costa-rica-coffea-diversa-washed-geisha/,https://paradiseroasters.com/,costa-rica-coffea-diversa-washed-geisha
 Guatemala Bella Carmona,https://www.coffeereview.com/review/guatemala-bella-carmona/,https://www.consciouscup.com/,guatemala-bella-carmona
 Ethiopia Yirgacheffe Kochere Debo,https://www.coffeereview.com/review/ethiopia-yirgacheffe-kochere-debo/,https://jackrabbitjava.com/,ethiopia-yirgacheffe-kochere-debo
@@ -1497,13 +1483,3 @@ Sumatra Pantan Musara,https://www.coffeereview.com/review/sumatra-pantan-musara-
 Sumatra Gayo G1 Triple-Picked Lot 005,https://www.coffeereview.com/review/sumatra-gayo-g1-triple-picked-lot-005/,http://www.kakalovecafe.com.tw/,sumatra-gayo-g1-triple-picked-lot-005
 Kakalove Taiwan Natural SL34 Alishan Ching-Ye Farm,https://www.coffeereview.com/review/kakalove-taiwan-natural-sl34-lishan-ching-ye-farm/,http://www.kakalovecafe.com.tw/,kakalove-taiwan-natural-sl34-lishan-ching-ye-farm
 Nano Genji #4 Espresso,https://www.coffeereview.com/review/ethiopia-nano-genjo-4-espresso/,https://www.jbccoffeeroasters.com/product-category/coffee/,ethiopia-nano-genjo-4-espresso
-Ignacio Quintero Colombia,https://www.coffeereview.com/review/ignacio-quintero-colombia/,https://www.jbccoffeeroasters.com/product-category/coffee/,ignacio-quintero-colombia
-Bella Carmona Guatemala,https://www.coffeereview.com/review/bella-carmona-guatemala-3/,https://www.jbccoffeeroasters.com/product-category/coffee/,bella-carmona-guatemala-3
-Ethiopia BergWu SP Series: Wuri Red Cherries 19/EXP02,https://www.coffeereview.com/review/ethiopia-bergwu-sp-series-wuri-red-cherries-19-exp02/,https://www.facebook.com/vennelcoffee,ethiopia-bergwu-sp-series-wuri-red-cherries-19-exp02
-Kona Maragogype,https://www.coffeereview.com/review/kona-maragogype/,https://www.rustyshawaiian.com/,kona-maragogype
-Organic Ethiopia Agaro-Nano Challa,https://www.coffeereview.com/review/organic-ethiopia-agaro-nano-challa/,https://paradiseroasters.com/,organic-ethiopia-agaro-nano-challa
-Kerinci Palompek Sumatra,https://www.coffeereview.com/review/kerinci-palompek-sumatra/,https://www.jbccoffeeroasters.com/product-category/coffee/,kerinci-palompek-sumatra
-Kenya Embu Gicherori Factory AA Top,https://www.coffeereview.com/review/kenya-embu-gicherori-factory-aa-top/,https://www.gkcoffee.com.tw,kenya-embu-gicherori-factory-aa-top
-Colombia Huila Los Lagos Washed Geisha,https://www.coffeereview.com/review/colombia-huila-los-lagos-washed-geisha/,http://www.kakalovecafe.com.tw/,colombia-huila-los-lagos-washed-geisha
-Coffea Diversa Liberica Carbonic Maceration,https://www.coffeereview.com/review/coffea-diversa-liberica-carbonic-maceration/,https://paradiseroasters.com/,coffea-diversa-liberica-carbonic-maceration
-Ethiopia Nano Genji #4,https://www.coffeereview.com/review/ethiopia-nano-genji-4/,https://www.jbccoffeeroasters.com/product-category/coffee/,ethiopia-nano-genji-4
