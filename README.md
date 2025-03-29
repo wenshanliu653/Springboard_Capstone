@@ -21,7 +21,7 @@ The goal was to identify key factors influencing coffee quality and provide pred
 ## 🔬 Methodology
 
 - **Data Wrangling**:  
-    - **Data Collection**: Scraped data from [Coffee Review](https://www.coffeereview.com/), and enriched it with geographical and weather data using `geopy`. Additionally, weather information was obtained from the [OpenWeatherMap API](https://openweathermap.org/api).  
+    - **Data Collection**: Scraped data from [Coffee Review](https://www.coffeereview.com/) by processing in parallel method, and enriched it with geographical and weather data using `geopy`. Additionally, weather information was obtained from the [OpenWeatherMap API](https://openweathermap.org/api).  
     - **Data Organization**: Merged several data sources.  
     - **Data Definition**: Classified coffee origins into specific geographical regions.  
     - **Data Cleaning**: Converted the price column to a consistent unit (USD).  
